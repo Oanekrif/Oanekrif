@@ -6,8 +6,8 @@
 👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br>
 👨🏻‍🎓 Studied [Computer Science](#) at the University of Abdelmalek Elsaadi, Morocco <br>
 🎨 Making videos about Computer Science, tech, and productivity on [Instagram](#) <br>
-🌷 #learninginpublic in my [digital garden](#) <br>
-💭 Currently learning about data analytics and [dataviz](#)!
+🌷 I'm currently learning [C++](#) and master [C](#) <br>
+💭 I'm interested in programming and cyber security, a little bit of AI!
 
 
 ## 🌐 Socials:
