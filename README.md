@@ -3,11 +3,11 @@
 
 # 👋👦🏻 Hi I'm Omar! <hr>
 
-👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br>
-👨🏻‍🎓 Studied [Computer Science](#) at the University of Abdelmalek Elsaadi, Morocco <br>
-🎨 Making videos about Computer Science, tech, and productivity on [Instagram](#) <br>
+👨🏻‍💻 [Software Engineer](#) sharing about my journey and learnings in tech <br>
+👨🏻‍🎓 Studied [Computer Science](#) at the University of [Abdelmalek Elsaadi](#), Morocco <br>
+🎨 Making videos about [Computer Science](#), tech, and productivity on [Instagram](#) <br>
 🌷 I'm currently learning [C++](#) and master [C](#) <br>
-💭 I'm interested in programming and cyber security, a little bit of AI!
+💭 I'm interested in [programming](#) and [cyber security](#), a little bit of [AI](#)!
 
 
 ## 🌐 Socials:
