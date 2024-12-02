@@ -23,7 +23,7 @@
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=Oanekrif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 ## 📊 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oanekrif&layout=donut&langs_count=&theme=discord_old_burple)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oanekrif&layout=donut&langs_count=8&theme=github_dark)
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Oanekrif&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
