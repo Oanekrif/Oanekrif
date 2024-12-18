@@ -1,8 +1,12 @@
 <!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 <!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 
-
-# 👋👦🏻 Hi I'm Omar! <hr>
+<div align="center" > 
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi+👋👦🏻,+Welcome+I'm+Omar+!)
+<hr />
+</div>
+<!-- # 👋👦🏻 Hi I'm Omar! <hr> -->
 
 👨🏻‍💻 [Software Engineer](#) sharing about my journey and learnings in tech. <br>
 👨🏻‍🎓 Studied [Computer Science](#) at the University of [Abdelmalek Elsaadi](#), Morocco. <br>
