@@ -3,7 +3,7 @@
 
 <div align="center" > 
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi+👋👦🏻,+Welcome+I'm+Omar+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi+👋👦🏻,+Welcome+I'm+Omar!)
 <hr />
 </div>
 <!-- # 👋👦🏻 Hi I'm Omar! <hr> -->
@@ -37,8 +37,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Oanekrif&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-###
----
+## 
+<div align="center" >
+[![Github](https://img.shields.io/github/followers/Oanekrif?label=Follow&style=social)](https://github.com/Oanekrif)
 [![](https://visitcount.itsvg.in/api?id=Oanekrif&icon=2&color=12)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
