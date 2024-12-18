@@ -3,16 +3,17 @@
 
 <div align="center" > 
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi+👋👦🏻,+Welcome+I'm+Omar!)
-<hr />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi+👋👦🏻,+Welcome+I'm+Omar+Anekrif!)
 </div>
-<!-- # 👋👦🏻 Hi I'm Omar! <hr> -->
+
+##
+[![Github](https://img.shields.io/github/followers/Oanekrif?label=Follow&style=social)](https://github.com/Oanekrif) [![](https://visitcount.itsvg.in/api?id=Oanekrif&icon=2&color=12)](https://visitcount.itsvg.in)
 
 👨🏻‍💻 [Software Engineer](#) sharing about my journey and learnings in tech. <br>
 👨🏻‍🎓 Studied [Computer Science](#) at the University of [Abdelmalek Elsaadi](#), Morocco. <br>
 🎨 Making videos about [Computer Science](#), tech, and productivity on [Instagram](#). <br>
-🌷 I'm currently learning [C++](#) and master [C](#). <br>
-💭 I'm interested in [programming](#) and [cyber security](#), a little bit of [AI](#)!
+🌷 I'm currently learning [Python](#) and master [C/C++](#). <br>
+💭 I'm interested in [Programming](#) and [Cyber Security](#), a little bit of [AI](#)!
 
 
 ## 🌐 Socials:
@@ -37,9 +38,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Oanekrif&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-## 
-<div align="center" >
-[![Github](https://img.shields.io/github/followers/Oanekrif?label=Follow&style=social)](https://github.com/Oanekrif)
-[![](https://visitcount.itsvg.in/api?id=Oanekrif&icon=2&color=12)](https://visitcount.itsvg.in)
-</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
