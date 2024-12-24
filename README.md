@@ -13,8 +13,8 @@
 👨🏻‍🎓 Studied [`Computer Science`][Links] at the University of [`Abdelmalek Elsaadi`][Links], Morocco. <br>
 🎨 Making videos about [`Computer Science`][Links], tech, and productivity on [`Instagram`][Links]. <br>
 🌷 I'm currently learning [`Python`][Links] and master [`C/C++`][Links]. <br>
-💭 I'm interested in [`Programming`][Links] and [`Cyber Security`][Links], a little bit of [`AI`][Links]!
-[Links] : #
+💭 I'm interested in [`Programming`][Links] and [`Cyber Security`][Links], a little bit of [`AI`][Links]!<br>
+[Links]: #
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moriarty__y) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wjm_99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wjm99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-a-9b5368272/) 
