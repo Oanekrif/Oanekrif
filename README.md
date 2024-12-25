@@ -9,11 +9,11 @@
 ##
 [![Github](https://img.shields.io/github/followers/Oanekrif?label=Follow&style=social)](https://github.com/Oanekrif) [![](https://visitcount.itsvg.in/api?id=Oanekrif&icon=2&color=12)](https://visitcount.itsvg.in)
 
-👨🏻‍💻 [`Software Engineer`](#) sharing about my journey and learnings in tech. <br>
-👨🏻‍🎓 Studied [`Computer Science`](#) at the University of [`Abdelmalek Elsaadi`](#), Morocco. <br>
-🎨 Making videos about [`Computer Science`](#), tech, and productivity on [`Instagram`](#). <br>
-🌷 I'm currently learning [`Python`](#) and master [`C/C++`](#). <br>
-💭 I'm interested in [`Programming`](#) and [`Cyber Security`](#), a little bit of [`AI`](#)!<br>
+* 👨🏻‍💻 [`Software Engineer`](#) sharing about my journey and learnings in tech. <br>
+* 👨🏻‍🎓 Studied [`Computer Science`](#) at the University of [`Abdelmalek Elsaadi`](#), Morocco. <br>
+* 🎨 Making videos about [`Computer Science`](#), tech, and productivity on [`Instagram`](#). <br>
+* 🌷 I'm currently learning [`Python`](#) and master [`C/C++`](#). <br>
+* 💭 I'm interested in [`Programming`](#) and [`Cyber Security`](#), a little bit of [`AI`](#)!<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moriarty__y) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wjm_99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wjm99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-a-9b5368272/) 
