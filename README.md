@@ -8,6 +8,7 @@
 
 ##
 [![Github](https://img.shields.io/github/followers/Oanekrif?label=Follow&style=social)](https://github.com/Oanekrif)
+
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Oanekrif&left_color=black&right_color=blue"  /> --> [![](https://visitcount.itsvg.in/api?id=Oanekrif&icon=2&color=12)](https://visitcount.itsvg.in)
 
 * 👨🏻‍💻 [`Software Engineer`](#) sharing about my journey and learnings in tech. <br>
