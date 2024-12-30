@@ -8,7 +8,7 @@
 
 ##
 [![Github](https://img.shields.io/github/followers/Oanekrif?label=Follow&style=social)](https://github.com/Oanekrif)
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Oanekrif&left_color=black&right_color=blue"  /> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineidrissi&label=Profile%20views&color=0e75b6&style=flat" alt="yassineidrissi" /> </p>
  
 [![](https://visitcount.itsvg.in/api?id=Oanekrif&icon=2&color=12)](https://visitcount.itsvg.in)
 
