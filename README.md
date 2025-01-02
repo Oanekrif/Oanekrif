@@ -15,7 +15,7 @@
 ##
 <div align="center" >
  
-[![Github](https://img.shields.io/github/followers/anekrif?label=Follow&style=social)](https://github.com/oanekrif) <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p> -->
+[![Github](https://img.shields.io/github/followers/oanekrif?label=Follow&style=social)](https://github.com/oanekrif) <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p> -->
 [![](https://visitcount.itsvg.in/api?id=Oanekrif&icon=2&color=12)](https://visitcount.itsvg.in)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" />
