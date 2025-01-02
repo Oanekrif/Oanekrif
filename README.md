@@ -37,13 +37,13 @@
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=Oanekrif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" /> **Most Used Languages**:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> **Most Used Languages**:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oanekrif&layout=donut&langs_count=9&theme=github_dark)
 
 ## 🔝 **Top Contributed Repo**
 ![](https://github-contributor-stats.vercel.app/api?username=Oanekrif&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="20" /> **Random Dev Quote**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" /> **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ## 🏆 **GitHub Trophies**
