@@ -1,5 +1,6 @@
 <!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 <!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://animated-fluent-emoji.vercel.app/ -->
 
 <div align="center" > 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40"/>
@@ -17,10 +18,10 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" />
 
 * 👨🏻‍💻 [`Software Engineer`](#) sharing about my journey and learnings in tech. <br>
-* 👨🏻‍🎓 Studied [`Computer Science`](#) at the University of [`Abdelmalek Elsaadi`](#), Morocco. <br>
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Man Student" width="20" /> Studied [`Computer Science`](#) at the University of [`Abdelmalek Elsaadi`](#), Morocco. <br>
 * 🎨 Making videos about [`Computer Science`](#), tech, and productivity on [`Instagram`](#). <br>
 * 🌷 I'm currently learning [`Python`](#) and master [`C/C++`](#). <br>
-* 💭 I'm interested in [`Programming`](#) and [`Cyber Security`](#), a little bit of [`AI`](#)!<br>
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="20" /> I'm interested in [`Programming`](#) and [`Cyber Security`](#), a little bit of <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" />[`AI`](#)!<br>
 
 ## 🌐 **Socials**:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moriarty__y) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wjm_99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wjm99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-a-9b5368272/) 
@@ -36,13 +37,13 @@
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=Oanekrif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **Most Used Languages**:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" /> **Most Used Languages**:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oanekrif&layout=donut&langs_count=9&theme=github_dark)
 
 ## 🔝 **Top Contributed Repo**
 ![](https://github-contributor-stats.vercel.app/api?username=Oanekrif&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-## ✍️ **Random Dev Quote**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="20" /> **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ## 🏆 **GitHub Trophies**
