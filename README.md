@@ -9,6 +9,7 @@
 ##
 [![Github](https://img.shields.io/github/followers/oanekrif?label=Follow&style=social)](https://github.com/oanekrif) <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p> -->
 [![](https://visitcount.itsvg.in/api?id=Oanekrif&icon=2&color=12)](https://visitcount.itsvg.in)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 * 👨🏻‍💻 [`Software Engineer`](#) sharing about my journey and learnings in tech. <br>
 * 👨🏻‍🎓 Studied [`Computer Science`](#) at the University of [`Abdelmalek Elsaadi`](#), Morocco. <br>
