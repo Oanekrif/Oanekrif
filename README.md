@@ -5,17 +5,21 @@
 <div align="center" > 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40"/>
  <a href="https://github.com/Oanekrif/">
-    <img src="https://img.shields.io/badge/Profile-Oanekrif%20-19f80582.svg?style=social" alt="Oanekrif Profile"> 
+    <img src="https://img.shields.io/badge/Profile-Oanekrif-%20.svg?style=plastic&labelColor=101010&color=ffffff" alt="Oanekrif Profile" width="120">
+
 </a> 
  
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi👋👦🏻,+Welcome+I'm+Omar+Anekrif!)
 </div>
 
 ##
+<div align="center" >
+ 
 [![Github](https://img.shields.io/github/followers/oanekrif?label=Follow&style=social)](https://github.com/oanekrif) <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p> -->
 [![](https://visitcount.itsvg.in/api?id=Oanekrif&icon=2&color=12)](https://visitcount.itsvg.in)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" />
+</div>
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/> [`Software Engineer`](#) sharing about my journey and learnings in tech. <br>
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" /> Studied [`Computer Science`](#) at the University of [`Abdelmalek Elsaadi`](#), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/>. <br>
