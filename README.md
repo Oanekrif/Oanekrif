@@ -53,6 +53,20 @@
 🌳 About Me
 My path as an IT manager began with a bachelor's degree in computer engineering, and I plan to further my education in the field of Information Technology - artificial intelligence and data sciences. I appreciate providing engineering programming and development information that is applicable to AI design, data mining, data science, Python programming, optimization, and other topics. Teaching in Iran's Technical and Professional Organization has provided me with essential skills, knowledge, and experience.
 With more than 3 years of successful experience in the computer business and academia, I can claim to be renowned as a computer engineer, innovator, performance-oriented, and perfectly motivated.
+## About me
+
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+
+```rust
+fn main() {
+    let _name = "Rafael Carneiro";
+    let _job = "Software Engineer";
+
+    let _location = "Fortaleza, Ceara, Brazil";
+    let _company = "O2D - On Demand Development";
+}
+
+```
 -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25"/> **Socials**:
@@ -62,6 +76,9 @@ With more than 3 years of successful experience in the computer business and aca
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25"/> **GitHub Stats**:
+
+<img align="right" width="400" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+
 ![](https://github-readme-stats.vercel.app/api?username=oanekrif&theme=github_dark&include_all_commits=true&count_private=true)<br/>
 <!--
 &hide_border=false&hide=prs,issues,contribs
