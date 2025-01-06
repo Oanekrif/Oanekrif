@@ -35,18 +35,6 @@
 <img align="right" height="170" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 </div>
 
-<style>
-  .desktop-only {
-    display: none;
-  }
-
-  @media (min-width: 768px) {
-    .desktop-only {
-      display: block;
-    }
-  }
-</style>
-
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/> [`Software Engineer`](https://www.mtu.edu/cs/undergraduate/software/what/) sharing about my journey and learnings in tech. <br>
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" /> Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/>. <br>
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="20"/> Making videos about Computer Science, tech, and productivity on [`Instagram`](https://instagram.com/moriarty__y). <br>
@@ -103,20 +91,8 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25"/> **GitHub Stats**:
 
 <div class="desktop-only">
-<img align="right" width="400" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<img align="right" width="400" src="https://media.tenor.com/pT_eK7L76OEAAAAC/Device-Desktop-coding-computer-coding.gif" />
 </div>
-<style>
-  .desktop-only {
-    display: none;
-  }
-
-  @media (min-width: 768px) {
-    .desktop-only {
-      display: block;
-    }
-  }
-</style>
-
 ![](https://github-readme-stats.vercel.app/api?username=oanekrif&theme=github_dark&include_all_commits=true&count_private=true)<br/>
 <!--
 &hide_border=false&hide=prs,issues,contribs
