@@ -6,13 +6,12 @@
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40"/>
  <a href="https://github.com/Oanekrif/">
     <img src="https://img.shields.io/badge/Profile-Oanekrif-%20.svg?style=plastic&labelColor=101010&color=ffffff" alt="Oanekrif Profile" width="120">
-
 </a> 
  
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi👋👦🏻,+Welcome+I'm+Omar+Anekrif!)
 </div>
 
-##
+---
 <div align="center" >
  
 [![Github](https://img.shields.io/github/followers/oanekrif?label=Follow&style=social)](https://github.com/oanekrif) <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p> -->
@@ -54,7 +53,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Oanekrif&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+---
+</br>
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+ <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="70px">
+ <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
 </p>
