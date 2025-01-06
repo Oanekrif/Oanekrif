@@ -31,6 +31,7 @@
 </p>
 <br clear="both" style="padding-bottom: 20;">
 
+</br>
 <div class="desktop-only">
 <img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 </div>
