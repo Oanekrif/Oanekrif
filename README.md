@@ -49,7 +49,11 @@
 - 💬 Passionate about software development and open-source contributions.
 - 🔗 **Github:** [repositories](https://github.com/yyle88?tab=repositories&type=public&sort=stargazers)
 - 🌟 **Give me some ⭐**
-- ⬆️ **Thank you for your support!**-->
+- ⬆️ **Thank you for your support!**
+🌳 About Me
+My path as an IT manager began with a bachelor's degree in computer engineering, and I plan to further my education in the field of Information Technology - artificial intelligence and data sciences. I appreciate providing engineering programming and development information that is applicable to AI design, data mining, data science, Python programming, optimization, and other topics. Teaching in Iran's Technical and Professional Organization has provided me with essential skills, knowledge, and experience.
+With more than 3 years of successful experience in the computer business and academia, I can claim to be renowned as a computer engineer, innovator, performance-oriented, and perfectly motivated.
+-->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25"/> **Socials**:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moriarty__y) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wjm_99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wjm99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-a-9b5368272/) 
