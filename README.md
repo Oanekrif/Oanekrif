@@ -25,7 +25,7 @@
 <p align="center">
 	<!--<img alt="referee95's visitors" src="https://komarev.com/ghpvc/?username=oanekrif&color=8c36db&style=flat&label=visitors" 
 	<img src="https://pageview.vercel.app/?github_user=oanekrif"/>-->
-	<img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&labelColor=101010&color=ffffff&style=flat" alt="Views" /> <!--color=0e75b6-->
+	<img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&style=plastic&color=000000" alt="Views" /> <!--color=0e75b6    &labelColor=101010&color=000000-->
 	<!-- <img alt="referee95's followers" src="https://img.shields.io/github/followers/oanekrif?color=blueviolet" /> -->
 	<img alt="referee95's stars" src="https://img.shields.io/github/stars/oanekrif?color=blueviolet" />
 </p>
@@ -34,6 +34,7 @@
 <div class="desktop-only">
 <img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 </div>
+</br>
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/> [`Software Engineer`](https://www.mtu.edu/cs/undergraduate/software/what/) sharing about my journey and learnings in tech. <br>
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" /> Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/>. <br>
