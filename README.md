@@ -23,7 +23,8 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" />
 </div>
 <p align="center">
-	<img alt="referee95's visitors" src="https://komarev.com/ghpvc/?username=oanekrif&color=8c36db&style=flat&label=visitors" />
+	<!--<img alt="referee95's visitors" src="https://komarev.com/ghpvc/?username=oanekrif&color=8c36db&style=flat&label=visitors" />-->
+	<img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&color=ffffff&style=flat" alt="encryptedtouhid" /> <!--color=0e75b6-->
 	<!-- <img alt="referee95's followers" src="https://img.shields.io/github/followers/oanekrif?color=blueviolet" /> -->
 	<img alt="referee95's stars" src="https://img.shields.io/github/stars/oanekrif?color=blueviolet" />
 </p>
