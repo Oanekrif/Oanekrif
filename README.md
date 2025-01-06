@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Profile-Oanekrif-%20.svg?style=plastic&labelColor=101010&color=ffffff" alt="Oanekrif Profile" width="120">
 </a> 
  
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi👋👦🏻,+Welcome+I'm+Omar+Anekrif!;Software+Engineer+💻;And+Software+Devoloper+📚)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=2500&color=FFFFFF&center=true&width=500&lines=Hi👋👦🏻,+Welcome+I'm+Omar+Anekrif!;Software+Engineer+💻;And+Software+Devoloper+📚)
 </div>
 
 ---
