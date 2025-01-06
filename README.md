@@ -31,11 +31,9 @@
 </p>
 <br clear="both" style="padding-bottom: 20;">
 
-</br>
 <div class="desktop-only">
 <img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 </div>
-</br>
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/> [`Software Engineer`](https://www.mtu.edu/cs/undergraduate/software/what/) sharing about my journey and learnings in tech. <br>
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" /> Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/>. <br>
@@ -120,6 +118,6 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 ---
 </br>
 <p align="center">
- <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="70px">
+ <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="75px">
  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
 </p>
