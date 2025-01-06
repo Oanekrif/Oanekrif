@@ -34,6 +34,18 @@
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" /> I'm currently learning [`Python`](https://www.python.org/doc/essays/blurb/) and master [`C/C++`](https://www.techtarget.com/searchdatamanagement/definition/C). <br>
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="20" /> I'm interested in [`Programming`](https://www.codecademy.com/article/what-is-programming) and [`Cyber Security`](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html), a little bit of <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" />[`AI`](https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence)!<br>
 
+<!-- ## About Me
+- 😄 **Name:** Yang YiLe
+- 🔭 **Born in:** 1990
+- 🌱 **Gender:** Male
+- 👯 **Education:** [Xidian (XDU)](https://www.xidian.edu.cn/) (2010-2014)
+- 💼 **Work Experience:** Huawei, ThoughtWorks, BX, PangQiu&PangDa&HuiOne.
+- 📫 **Main Language:** Go
+- 💬 Passionate about software development and open-source contributions.
+- 🔗 **Github:** [repositories](https://github.com/yyle88?tab=repositories&type=public&sort=stargazers)
+- 🌟 **Give me some ⭐**
+- ⬆️ **Thank you for your support!**-->
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25"/> **Socials**:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moriarty__y) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wjm_99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wjm99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-a-9b5368272/) 
 
