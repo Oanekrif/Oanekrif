@@ -34,6 +34,7 @@
 <div class="desktop-only">
 <img align="right" height="170" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 </div>
+
 <style>
   .desktop-only {
     display: none;
