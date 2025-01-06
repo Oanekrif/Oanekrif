@@ -31,7 +31,9 @@
 </p>
 <br clear="both" style="padding-bottom: 20;">
 
+<div class="desktop-only">
 <img align="right" height="170" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+</div>
 
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/> [`Software Engineer`](https://www.mtu.edu/cs/undergraduate/software/what/) sharing about my journey and learnings in tech. <br>
@@ -68,6 +70,17 @@ fn main() {
 }
 
 ```
+Hello, I'm Nathalia Adriele!
+I am a Data Engineer with a Master's degree in Information Science from UNESP (Universidade Estadual Paulista) and I am currently studying an MBA in Data Science and Analytics at USP (Universidade de São Paulo). I am passionate about transforming data into meaningful insights and work with technologies such as Python, Deep Learning, NLP, LLMs and GenAI.
+
+Technical Skills
+I have experience in programming with Python, SQL, and Amazon Web Services (AWS). My expertise includes ETL, data modeling, data storage, ingestion, building data pipelines, data processing, orchestration, data visualization, monitoring, and data quality.
+
+As a researcher, I am involved in studies and projects related to deep learning, natural language processing (NLP), language models (LLMs), and generating artificial intelligence (GenAI), as well as data science projects.
+
+Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby, RSpec, Postman, Cypress, Robot, and other frameworks. I also promote a culture of good documentation practices for conformity, reproducibility, and knowledge dissemination. I enjoy contributing to projects and constantly learning.
+
+
 -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25"/> **Socials**:
@@ -78,7 +91,9 @@ fn main() {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25"/> **GitHub Stats**:
 
+<div class="desktop-only">
 <img align="right" width="400" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=oanekrif&theme=github_dark&include_all_commits=true&count_private=true)<br/>
 <!--
