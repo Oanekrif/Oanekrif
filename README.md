@@ -28,7 +28,7 @@
 	<!-- <img alt="referee95's followers" src="https://img.shields.io/github/followers/oanekrif?color=blueviolet" /> -->
 	<img alt="referee95's stars" src="https://img.shields.io/github/stars/oanekrif?color=blueviolet" />
 </p>
-<br clear="both" style="padding-bottom: 20px;">
+<br clear="both" style="padding-bottom: 20;">
 
 <img align="right" height="170" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
@@ -70,6 +70,9 @@ With more than 3 years of successful experience in the computer business and aca
 -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> **Most Used Languages**:
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oanekrif&layout=donut&langs_count=9&theme=github_dark)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Top%20Arrow.png" alt="Top Arrow" width="25" /> **Top Contributed Repo**
