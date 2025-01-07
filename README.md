@@ -1,6 +1,7 @@
 <!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 <!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://animated-fluent-emoji.vercel.app/ -->
+<div id="Top"></div>
 
 <div align="center" > 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40"/>
@@ -119,3 +120,4 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="75px">
  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
 </p>
+<p align="right"><a href="#Top"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
