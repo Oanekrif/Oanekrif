@@ -101,7 +101,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> **Most Used Languages**:
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oanekrif&layout=donut&langs_count=9&theme=github_dark)
 
