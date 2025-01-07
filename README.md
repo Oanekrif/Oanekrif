@@ -90,7 +90,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25"/> **GitHub Stats**:
 	
-<img align="right" width="450" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<img align="right" width="400" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ![](https://github-readme-stats.vercel.app/api?username=oanekrif&theme=github_dark&include_all_commits=true&count_private=true)<br/>
 <!--
