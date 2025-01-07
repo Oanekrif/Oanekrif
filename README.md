@@ -111,7 +111,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25"/> **GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=Oanekrif&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
+<!--<img src="https://github-profile-trophy.vercel.app/?username=oanekrif&row=2&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>   &column=3 -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 </br>
