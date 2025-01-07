@@ -46,7 +46,16 @@
 <img align="right" height="190" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="20" /> **Main Language:** [`C`](https://www.techtarget.com/searchwindowsserver/definition/C) <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20"/> **Languages:** Arabic<sup>🇲🇦</sup>, French<sup>🇫🇷</sup>, English<sup>🇬🇧</sup>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20"/> **Languages:**
+   - Arabic <sup>🇲🇦</sup>
+   - French <sup>🇫🇷</sup>
+   - English <sup>🇬🇧</sup>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" /> Hobbies and Interests:
+   - Coding (exploring different programming languages and solving problems)
+   - Reading (tech articles, books, and novels)
+   - Learning (always curious about new technologies and methodologies)
+   - Open-source Contributions (improving code, collaborating with the community)
+   - Problem-Solving (solving puzzles and algorithm challenges)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="20" /> **Github:** [`repositories`](https://github.com/oanekrif?tab=repositories&type=public&sort=stargazers) <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" /> **Give me some ⭐** <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" /> **`Thank you for your support!`** <br>
