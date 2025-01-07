@@ -1,6 +1,8 @@
 <!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 <!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://animated-fluent-emoji.vercel.app/ -->
+<!-- https://gifer.com/en/ -->
+
 <div id="Top"></div>
 
 <div align="center" > 
@@ -27,32 +29,27 @@
 
 ---
 <br clear="both" style="padding-bottom: 20;">
-<img align="right" height="190" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/> [`Software Engineer`](https://www.mtu.edu/cs/undergraduate/software/what/) sharing about my journey and learnings in tech. <br>
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" /> Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/>. <br>
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="20"/> Making videos about Computer Science, tech, and productivity on [`Instagram`](https://instagram.com/moriarty__y). <br>
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" /> I'm currently learning [`Python`](https://www.python.org/doc/essays/blurb/) and master [`C/C++`](https://www.techtarget.com/searchdatamanagement/definition/C). <br>
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="20" /> I'm interested in [`Programming`](https://www.codecademy.com/article/what-is-programming) and [`Cyber Security`](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html), a little bit of <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" />[`AI`](https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence)!<br>
+## About Me
 
-<!-- ## About Me
-- 😄 **Name:** Yang YiLe
-- 🔭 **Born in:** 1990
-- 🌱 **Gender:** Male
-- 👯 **Education:** [Xidian (XDU)](https://www.xidian.edu.cn/) (2010-2014)
-- 💼 **Work Experience:** Huawei, ThoughtWorks, BX, PangQiu&PangDa&HuiOne.
-- 📫 **Main Language:** Go
-- 💬 Passionate about software development and open-source contributions.
-- 🔗 **Github:** [repositories](https://github.com/yyle88?tab=repositories&type=public&sort=stargazers)
-- 🌟 **Give me some ⭐**
-- ⬆️ **Thank you for your support!**
-🌳 About Me
-My path as an IT manager began with a bachelor's degree in computer engineering, and I plan to further my education in the field of Information Technology - artificial intelligence and data sciences. I appreciate providing engineering programming and development information that is applicable to AI design, data mining, data science, Python programming, optimization, and other topics. Teaching in Iran's Technical and Professional Organization has provided me with essential skills, knowledge, and experience.
-With more than 3 years of successful experience in the computer business and academia, I can claim to be renowned as a computer engineer, innovator, performance-oriented, and perfectly motivated.
-## About me
+<img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+ 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" /> **Name:** Omar  <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="20" /> **Born in:** 2005  <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Male%20Sign.png" alt="Male Sign" width="20"/> **Gender:** Male<br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" /> I'm currently learning [`Python`](https://www.python.org/doc/essays/blurb/) and master [`C/C++`](https://www.techtarget.com/searchdatamanagement/definition/C)<br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="20" /> I'm interested in [`Programming`](https://www.codecademy.com/article/what-is-programming) and [`Cyber Security`](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html), a little bit of <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" />[`AI`](https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence)!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/> Driven by a passion for [`Software Engineer`](https://www.mtu.edu/cs/undergraduate/software/what/) <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="20" /> contributing to open-source projects, and continuous learning
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" /> **Education:** Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/> <br>
 
-<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<img align="right" height="190" src="https://i.gifer.com/6vIk.gif"  />
 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="20" /> **Main Language:** [`C`](https://www.techtarget.com/searchwindowsserver/definition/C) <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="20" /> **Github:** [`repositories`](https://github.com/oanekrif?tab=repositories&type=public&sort=stargazers) <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" /> **Give me some ⭐** <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" /> **`Thank you for your support!`** <br>
+<!--
 ```rust
 fn main() {
     let _name = "Rafael Carneiro";
@@ -63,18 +60,23 @@ fn main() {
 }
 
 ```
+-->
+<br>
+
+<!--
+🌳 About Me
+My path as an IT manager began with a bachelor's degree in computer engineering, and I plan to further my education in the field of Information Technology - artificial intelligence and data sciences. I appreciate providing engineering programming and development information that is applicable to AI design, data mining, data science, Python programming, optimization, and other topics. Teaching in Iran's Technical and Professional Organization has provided me with essential skills, knowledge, and experience.
+With more than 3 years of successful experience in the computer business and academia, I can claim to be renowned as a computer engineer, innovator, performance-oriented, and perfectly motivated.
+
 Hello, I'm Nathalia Adriele!
 I am a Data Engineer with a Master's degree in Information Science from UNESP (Universidade Estadual Paulista) and I am currently studying an MBA in Data Science and Analytics at USP (Universidade de São Paulo). I am passionate about transforming data into meaningful insights and work with technologies such as Python, Deep Learning, NLP, LLMs and GenAI.
 
 Technical Skills
 I have experience in programming with Python, SQL, and Amazon Web Services (AWS). My expertise includes ETL, data modeling, data storage, ingestion, building data pipelines, data processing, orchestration, data visualization, monitoring, and data quality.
-
 As a researcher, I am involved in studies and projects related to deep learning, natural language processing (NLP), language models (LLMs), and generating artificial intelligence (GenAI), as well as data science projects.
-
 Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby, RSpec, Postman, Cypress, Robot, and other frameworks. I also promote a culture of good documentation practices for conformity, reproducibility, and knowledge dissemination. I enjoy contributing to projects and constantly learning.
-
-
 -->
+<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25"/> **Socials**:
 <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="350" align="right" alt="Coding"/>
