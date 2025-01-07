@@ -42,10 +42,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="20" /> contributing to open-source projects, and continuous learning
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="20" /> I'm interested in [`Programming`](https://www.codecademy.com/article/what-is-programming) and [`Cyber Security`](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html), a little bit of <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" />[`AI`](https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence)!
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" /> **Education:** Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/> <br>
-
-<img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="20" /> **Main Language:** [`C`](https://www.techtarget.com/searchwindowsserver/definition/C) <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="20" /> **Main Language:** [`C`](https://www.techtarget.com/searchwindowsserver/definition/C)                 <img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />     <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20"/> **Languages:**
    - Arabic <sup>🇲🇦</sup>
    - French <sup>🇫🇷</sup>
