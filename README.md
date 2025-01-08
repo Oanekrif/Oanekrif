@@ -32,7 +32,7 @@
 
 ## About Me
 
-<img align="right" height="220" src="https://i.gifer.com/6vIk.gif"  /> 
+<img align="right" height="230" src="https://i.gifer.com/6vIk.gif"  /> 
  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" /> **Name:** Omar  <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="20" /> **Born in:** 2005  <br>
