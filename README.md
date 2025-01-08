@@ -2,7 +2,17 @@
 <!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://animated-fluent-emoji.vercel.app/ -->
 <!-- https://gifer.com/en/ -->
-
+<div align="centre">
+<a href="#Top"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo"  alt="Top" /></a>
+<a href="#Aboutme"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo"  alt="About Me" /></a>
+<a href="#Social"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo"  alt="Socials" /></a>
+<a href="#Techstack"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo"  alt="Tech Stack" /></a>
+<a href="#Githubstats"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo"  alt="Github Stats" /></a>
+<a href="#Mostusedlanguages"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo"  alt="Most Used Languages" /></a>
+<a href="#Topcontributedrepo"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo"  alt="Top Contributed Repo" /></a>
+<a href="#GitHubtrophies"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo"  alt="GitHub Trophies" /></a>
+<a href="#Down"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo"  alt="Down" /></a>
+</div>
 <div id="Top"></div>
 
 <div align="center" > 
@@ -30,8 +40,9 @@
 ---
 <br clear="both" style="padding-bottom: 20;">
 
-## About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="25" height="25" /> About Me
 
+<div id="Aboutme"></div>
 <img align="right" height="225" src="https://i.gifer.com/6vIk.gif"  /> 
  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" /> **Name:** Omar  <br>
@@ -86,14 +97,17 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> **Socials**:
+<div id="Social"></div>
 <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="350" align="right" alt="Coding"/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moriarty__y) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wjm_99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wjm99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-a-9b5368272/) 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tech Stack**:
+<div id="Techstack"></div>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) </br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25"/> **GitHub Stats**:
+<div id="Githubstats"></div>
 	
 <img align="right" width="350" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
@@ -105,22 +119,26 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> **Most Used Languages**:
+<div id="Mostusedlanguages"></div>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oanekrif&layout=donut&langs_count=9&theme=github_dark)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Top%20Arrow.png" alt="Top Arrow" width="25" /> **Top Contributed Repo**
+<div id="Topcontributedrepo"></div>
 <img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamExbnptaTEwcThqdng5b2E3cWd5MHl6cDZ2a3cwcDAwbTZob3U5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 
 ![](https://github-contributor-stats.vercel.app/api?username=Oanekrif&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" /> **Random Dev Quote**
+
 <img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kyaWgzc2Jub3ZldjZ6aDMydng0OXgzOGx2a3l0Z2FseXppZDdlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25"/> **GitHub Trophies**
+<div id="GitHubtrophies"></div>
 ![](https://github-profile-trophy.vercel.app/?username=Oanekrif&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 <!--<img src="https://github-profile-trophy.vercel.app/?username=oanekrif&row=2&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>   &column=3 -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -131,3 +149,4 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
 </p>
 <p align="right"><a href="#Top"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
+<div id="Down"></div>
