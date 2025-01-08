@@ -32,7 +32,7 @@
 
 ## About Me
 
-<img align="right" height="190" src="https://i.gifer.com/6vIk.gif"  />  <br>
+<img align="right" height="200" src="https://i.gifer.com/6vIk.gif"  /> 
  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" /> **Name:** Omar  <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="20" /> **Born in:** 2005  <br>
@@ -50,7 +50,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" /> Hobbies and Interests:
    - Coding (exploring different programming languages and solving problems)
    - Reading (tech articles, books, and novels)
-   - Learning (always curious about new technologies and methodologies)                                        <img align="right" height="200" src="https://i.gifer.com/En1y.gif"  />
+   - Learning (always curious about new technologies and methodologies)                                        <img align="right" height="210" src="https://i.gifer.com/En1y.gif"  />
    - Open-source Contributions (improving code, collaborating with the community)
    - Problem-Solving (solving puzzles and algorithm challenges)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="20" /> **Github:** [`repositories`](https://github.com/oanekrif?tab=repositories&type=public&sort=stargazers) <br>
