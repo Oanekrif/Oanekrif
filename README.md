@@ -3,13 +3,13 @@
 <!-- https://animated-fluent-emoji.vercel.app/ -->
 <!-- https://gifer.com/en/ -->
 <div align="centre">
-<a href="#Aboutme"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+About+Me&color=0b6ab3&style=flat&logo"  alt="About Me" /></a>
-<a href="#Social"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Socials&color=0b6ab3&style=flat&logo"  alt="Socials" /></a>
-<a href="#Techstack"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Tech+Stack&color=0b6ab3&style=flat&logo"  alt="Tech Stack" /></a>
-<a href="#Githubstats"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Github+Stats&color=0b6ab3&style=flat&logo"  alt="Github Stats" /></a>
-<a href="#Mostusedlanguages"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Most+Used+Languages&color=0b6ab3&style=flat&logo"  alt="Most Used Languages" /></a>
-<a href="#Topcontributedrepo"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top+Contributed+Repo&color=0b6ab3&style=flat&logo"  alt="Top Contributed Repo" /></a>
-<a href="#GitHubtrophies"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+GitHub+Trophies&color=0b6ab3&style=flat&logo"  alt="GitHub Trophies" /></a>
+<a href="#Aboutme"><img src="https://img.shields.io/static/v1?label&message=About+Me&color=0b6ab3&style=flat&logo"  alt="About Me" /></a>
+<a href="#Social"><img src="https://img.shields.io/static/v1?label&message=Socials&color=0b6ab3&style=flat&logo"  alt="Socials" /></a>
+<a href="#Techstack"><img src="https://img.shields.io/static/v1?label&message=Tech+Stack&color=0b6ab3&style=flat&logo"  alt="Tech Stack" /></a>
+<a href="#Githubstats"><img src="https://img.shields.io/static/v1?label&message=Github+Stats&color=0b6ab3&style=flat&logo"  alt="Github Stats" /></a>
+<a href="#Mostusedlanguages"><img src="https://img.shields.io/static/v1?label&message=Most+Used+Languages&color=0b6ab3&style=flat&logo"  alt="Most Used Languages" /></a>
+<a href="#Topcontributedrepo"><img src="https://img.shields.io/static/v1?label&message=Top+Contributed+Repo&color=0b6ab3&style=flat&logo"  alt="Top Contributed Repo" /></a>
+<a href="#GitHubtrophies"><img src="https://img.shields.io/static/v1?label&message=GitHub+Trophies&color=0b6ab3&style=flat&logo"  alt="GitHub Trophies" /></a>
 <a href="#Down"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Down&color=0b6ab3&style=flat&logo"  alt="Down" /></a>
 </div>
 <div id="Top"></div>
