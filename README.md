@@ -163,4 +163,5 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
 </p>
 <p align="right"><a href="#Top"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
+
 <div id="Down"></div>
