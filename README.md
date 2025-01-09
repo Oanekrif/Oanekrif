@@ -4,7 +4,7 @@
 <!-- https://gifer.com/en/ -->
 <div id="Top"></div>
 
-<div align="center"> `Use a computer for a better experience` <\div>
+<div align="center">`Use a computer for a better experience`<\div>
 
 <div align="center" >
 <a href="#Aboutme"><img src="https://img.shields.io/static/v1?label&message=About+Me&color=0b6ab3&style=flat&logo"  alt="About Me" /></a>
