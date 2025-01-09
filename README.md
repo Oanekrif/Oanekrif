@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Profile-Oanekrif-%20.svg?style=plastic&labelColor=101010&color=ffffff" alt="Oanekrif Profile" width="120">
 </a> 
 	
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=2500&color=FFFFFF&center=true&width=500&lines=👋+Hi👦🏻,+Welcome+To+MyProfile+👋;I'm+Omar+Anekrif!;Software+Engineer+💻;And+Software+Devoloper+📚)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=2500&color=FFFFFF&center=true&width=500&lines=👋+Hi👦🏻,+Welcome+To+My+Profile+👋;I'm+Omar+Anekrif!;Software+Engineer+💻;And+Software+Devoloper+📚)
 
 [![Github](https://img.shields.io/github/followers/oanekrif?label=Follow&style=social)](https://github.com/oanekrif) <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p> -->
 <img alt="referee95's stars" src="https://img.shields.io/github/stars/oanekrif?color=blueviolet" />
