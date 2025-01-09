@@ -7,6 +7,7 @@
 <div align="center">
 	
 `Use a computer for a better experience`
+
 <\div>
 
 <div align="center" >
