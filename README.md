@@ -6,7 +6,7 @@
 
 <div align="center" >
 
- `Use a computer for a better experience` <br><br>
+ `Use a browser for a better experience` <br><br>
  
 <a href="#Aboutme"><img src="https://img.shields.io/static/v1?label&message=About+Me&color=0b6ab3&style=flat&logo"  alt="About Me" /></a>
 <a href="#Social"><img src="https://img.shields.io/static/v1?label&message=Socials&color=0b6ab3&style=flat&logo"  alt="Socials" /></a>
