@@ -121,7 +121,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 	
 <img align="right" width="350" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
-![](https://github-readme-stats.vercel.app/api?username=oanekrif&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Oanekrif&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true)<br/>
 <!--
 &hide_border=false&hide=prs,issues,contribs
 [](https://github-readme-streak-stats.herokuapp.com/?user=Oanekrif&theme=github_dark&hide_border=false)<br/>
