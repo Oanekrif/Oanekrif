@@ -134,7 +134,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oanekrif&layout=donut&langs_count=9&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oanekrif&layout=donut&langs_count=9&theme=github_dark)
 
 <div id="Topcontributedrepo"></div>
 
