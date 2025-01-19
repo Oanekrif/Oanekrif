@@ -2,6 +2,7 @@
 <!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://animated-fluent-emoji.vercel.app/ -->
 <!-- https://gifer.com/en/ -->
+<!-- https://skillicons.dev/ -->
 <div id="Top"></div>
 
 <div align="center" >
