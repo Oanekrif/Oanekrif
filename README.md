@@ -61,9 +61,9 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" /> **Education:** Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/> <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="20" /> **Main Language:** [`C`](https://www.techtarget.com/searchwindowsserver/definition/C)                 <img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />     <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20"/> **Languages:**
-   - Arabic <sup>🇲🇦</sup>
-   - French <sup>🇫🇷</sup>
-   - English <sup>🇬🇧</sup>
+   - Arabic <sup> 🇲🇦 </sup>
+   - French <sup> 🇫🇷 </sup>
+   - English <sup> 🇬🇧 </sup>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" /> Hobbies and Interests:
    - Coding (exploring different programming languages and solving problems)
    - Reading (tech articles, books, and novels)
