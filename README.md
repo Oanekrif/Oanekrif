@@ -35,8 +35,9 @@
 	<!--<img alt="referee95's visitors" src="https://komarev.com/ghpvc/?username=oanekrif&color=8c36db&style=flat&label=visitors" 
 	<img src="https://pageview.vercel.app/?github_user=oanekrif"/>--> <!--color=0e75b6    &labelColor=101010&color=000000-->
 	<!-- <img alt="referee95's followers" src="https://img.shields.io/github/followers/oanekrif?color=blueviolet" /> -->
- [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" />
+[![wakatime](https://wakatime.com/badge/user/2f149b9c-aa3c-4f49-9dd4-6e2df4b8b0c7.svg)](https://wakatime.com/@2f149b9c-aa3c-4f49-9dd4-6e2df4b8b0c7)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" />
 </div>
 
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
