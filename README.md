@@ -15,7 +15,7 @@
 <a href="#Githubstats"><img src="https://img.shields.io/static/v1?label&message=Github+Stats&color=0b6ab3&style=flat&logo"  alt="Github Stats" /></a>
 <a href="#Mostusedlanguages"><img src="https://img.shields.io/static/v1?label&message=Most+Used+Languages&color=0b6ab3&style=flat&logo"  alt="Most Used Languages" /></a>
 <a href="#Topcontributedrepo"><img src="https://img.shields.io/static/v1?label&message=Top+Contributed+Repo&color=0b6ab3&style=flat&logo"  alt="Top Contributed Repo" /></a>
-<a href="#GitHubtrophies"><img src="https://img.shields.io/static/v1?label&message=GitHub+Trophies&color=0b6ab3&style=flat&logo"  alt="GitHub Trophies" /></a>
+<a href="#SteakAndTime"><img src="https://img.shields.io/static/v1?label&message=GitHub+Streak+And+WakaTime&color=0b6ab3&style=flat&logo"  alt="GitHub Trophies" /></a>
 <a href="#Down"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Down&color=0b6ab3&style=flat&logo"  alt="Down" /></a>
 
 </div>
@@ -123,7 +123,12 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 	
 <img align="right" width="350" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=oanekrif&theme=github_dark&show_icons=true&include_all_commits=false&count_private=true)<br/>
+![Oanekrif's GitHub stats](https://github-readme-stats.vercel.app/api?username=oanekrif&show_icons=true&theme=radical)
+-->
+![Oanekrif's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=oanekrif&show_icons=true&theme=midnight-purple&include_all_commits=true&custom_title=Oanekrif's%20GitHub%20Stats)</br>
 <!--
 &hide_border=false&hide=prs,issues,contribs
 [](https://github-readme-streak-stats.herokuapp.com/?user=Oanekrif&theme=github_dark&hide_border=false)<br/>
@@ -136,7 +141,11 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oanekrif&layout=donut&langs_count=10&theme=github_dark)
+[![Oanekrif's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oanekrif&langs_count=10)
+-->
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oanekrif&layout=donut-vertical&theme=highcontrast&langs_count=10)
 
 <div id="Topcontributedrepo"></div>
 
@@ -144,7 +153,12 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 <img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamExbnptaTEwcThqdng5b2E3cWd5MHl6cDZ2a3cwcDAwbTZob3U5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 
+<!--
 ![](https://github-contributor-stats.vercel.app/api?username=Oanekrif&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+-->
+![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oanekrif&repo=Py-Calculator&theme=codeSTACKr&border_color=e4e2e2&show_owner=true)
+![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oanekrif&repo=Calculator&theme=neon&show_owner=true)
+![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oanekrif&repo=webchall&theme=aura&show_owner=true)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" /> **Random Dev Quote**
 
@@ -152,12 +166,16 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25"/> **GitHub Trophies**
-<div id="GitHubtrophies"></div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25"/> **GitHub Streak & WakaTime Stats Card**
+<div id="SteakAndTime"></div>
 
 ![](https://github-profile-trophy.vercel.app/?username=Oanekrif&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 <!--<img src="https://github-profile-trophy.vercel.app/?username=oanekrif&row=2&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>   &column=3 -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=oanekrif&theme=chartreuse-dark)</br>
+![Oanekrif's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=@oanekrif)
+
 ---
 </br>
 <p align="center">
