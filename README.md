@@ -175,7 +175,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=oanekrif&theme=chartreuse-dark)</br>
-![Oanekrif's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=@oanekriff)
+![Oanekrif's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=@oanekrif)
 
 ---
 </br>
