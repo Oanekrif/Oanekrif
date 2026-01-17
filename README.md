@@ -146,7 +146,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oanekrif&layout=donut&langs_count=10&theme=github_dark)
 [![Oanekrif's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oanekrif&langs_count=10)
 -->
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oanekrif&layout=donut-vertical&theme=highcontrast&langs_count=10)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oanekrif&layout=donut-vertical&theme=highcontrast&langs_count=11)
 
 <div id="Topcontributedrepo"></div>
 
@@ -175,7 +175,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=oanekrif&theme=chartreuse-dark)</br>
-![Oanekrif's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=@oanekrif)
+![Oanekrif's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=@oanekriff)
 
 ---
 </br>
