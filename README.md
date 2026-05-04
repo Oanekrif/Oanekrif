@@ -38,7 +38,8 @@
 	<!-- <img alt="referee95's followers" src="https://img.shields.io/github/followers/oanekrif?color=blueviolet" /> -->
 [![wakatime](https://wakatime.com/badge/user/2f149b9c-aa3c-4f49-9dd4-6e2df4b8b0c7.svg)](https://wakatime.com/@2f149b9c-aa3c-4f49-9dd4-6e2df4b8b0c7)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" />
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" />-->
+🤝
 </div>
 
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
@@ -50,32 +51,47 @@
 
 <div id="Aboutme"></div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="25" height="25" /> About Me
+## 😃 About Me
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="25" height="25" />-->
 
 <img align="right" height="225" src="https://i.gifer.com/6vIk.gif"  /> 
  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" /> **Name:** Omar  <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="20" /> **Born in:** 2005  <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Male%20Sign.png" alt="Male Sign" width="20"/> **Gender:** Male<br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" /> I'm currently focused on mastering [`C`](http://geeksforgeeks.org/c/c-programming-language/) and [`C++`](https://www.geeksforgeeks.org/cpp/c-plus-plus/)<br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/> Driven by a passion for [`Software Engineer`](https://www.mtu.edu/cs/undergraduate/software/what/) <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="20" /> contributing to open-source projects, and continuous learning
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="20" /> I'm interested in [`Cyber Security`](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html) and [`Cloud`](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud), with an emphasis on [`Cloud Security`](https://cloud.google.com/learn/what-is-cloud-security)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" /> **Education:** Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/> <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="20" /> **Main Language:** [`C`](https://www.techtarget.com/searchwindowsserver/definition/C)                 <img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />     <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20"/> **Languages:**
+- 😄 **Name:** Omar  <br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" />-->
+- 🧮 **Born in:** 2005  <br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="20" />-->
+- ♂️ **Gender:** Male<br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Male%20Sign.png" alt="Male Sign" width="20"/>-->
+- 📚 I'm currently focused on mastering [`C`](http://geeksforgeeks.org/c/c-programming-language/) and [`C++`](https://www.geeksforgeeks.org/cpp/c-plus-plus/)<br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" />-->
+- 🧑‍💻 Driven by a passion for [`Software Engineer`](https://www.mtu.edu/cs/undergraduate/software/what/) <br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/>-->
+- 🗓️ contributing to open-source projects, and continuous learning
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="20" />-->
+- 💭 I'm interested in [`Cyber Security`](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html) and [`Cloud`](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud), with an emphasis on [`Cloud Security`](https://cloud.google.com/learn/what-is-cloud-security)
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="20" />-->
+- 👨‍🎓 **Education:** Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/> <br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" />-->
+- 🚩 **Main Language:** [`C`](https://www.techtarget.com/searchwindowsserver/definition/C)                 <img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />     <br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="20" />-->
+- 🌐 **Languages:**
    - Arabic <sup> 🇲🇦 </sup>
    - French <sup> 🇫🇷 </sup>
    - English <sup> 🇬🇧 </sup>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" /> Hobbies and Interests:
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20"/>-->
+- 🌱 Hobbies and Interests:
    - Coding (exploring different programming languages and solving problems)
    - Reading (tech articles, books, and novels)
    - Learning (always curious about new technologies and methodologies)                                        <img align="right" height="230" src="https://i.gifer.com/En1y.gif"  />
    - Open-source Contributions (improving code, collaborating with the community)
    - Problem-Solving (solving puzzles and algorithm challenges)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="20" /> **Github:** [`repositories`](https://github.com/oanekrif?tab=repositories&type=public&sort=stargazers) <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" /> **Give me some ⭐** <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" /> **`Thank you for your support!`** <br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" />-->
+- 🔗 **Github:** [`repositories`](https://github.com/oanekrif?tab=repositories&type=public&sort=stargazers) <br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="20" />-->
+- 🌟 **Give me some ⭐** <br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" />-->
+- 🤝 **`Thank you for your support!`** <br>
+<!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" />-->
 <!--
 ```rust
 fn main() {
