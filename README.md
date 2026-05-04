@@ -16,7 +16,7 @@
 <a href="#Githubstats"><img src="https://img.shields.io/static/v1?label&message=Github+Stats&color=0b6ab3&style=flat&logo"  alt="Github Stats" /></a>
 <a href="#Mostusedlanguages"><img src="https://img.shields.io/static/v1?label&message=Most+Used+Languages&color=0b6ab3&style=flat&logo"  alt="Most Used Languages" /></a>
 <a href="#Topcontributedrepo"><img src="https://img.shields.io/static/v1?label&message=Top+Contributed+Repo&color=0b6ab3&style=flat&logo"  alt="Top Contributed Repo" /></a>
-<a href="#RandomQuote"><img src="https://img.shields.io/static/v1?label&message=Random+Div+Quote&color=0b6ab3&style=flat&logo"  alt="Random Div Quote" /></a>
+<a href="#RandomQuoteMeme"><img src="https://img.shields.io/static/v1?label&message=Random+Div+Quote+Meme&color=0b6ab3&style=flat&logo"  alt="Random Div Quote & Meme" /></a>
 <a href="#SteakAndTime"><img src="https://img.shields.io/static/v1?label&message=GitHub+Streak+And+WakaTime&color=0b6ab3&style=flat&logo"  alt="GitHub Trophies" /></a>
 <a href="#Down"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Down&color=0b6ab3&style=flat&logo"  alt="Down" /></a>
 
@@ -184,7 +184,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 ![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oanekrif&repo=webchall&theme=aura&show_owner=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div id="RandomQuote"></div>
+<div id="RandomQuoteMeme"></div>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fb/512.gif" alt="✍" width="30" height="30"> **Random Quote & Meme**
 
