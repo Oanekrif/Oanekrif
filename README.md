@@ -61,35 +61,35 @@
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="20" />-->
 - ♂️ **Gender:** Male<br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Male%20Sign.png" alt="Male Sign" width="20"/>-->
-- 📚 I'm currently focused on mastering [`C`](http://geeksforgeeks.org/c/c-programming-language/) and [`C++`](https://www.geeksforgeeks.org/cpp/c-plus-plus/)<br>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="📚" width="20" height="20"> I'm currently focused on mastering [`C`](http://geeksforgeeks.org/c/c-programming-language/) and [`C++`](https://www.geeksforgeeks.org/cpp/c-plus-plus/)<br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" />-->
 - 🧑‍💻 Driven by a passion for [`Software Engineer`](https://www.mtu.edu/cs/undergraduate/software/what/) <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="20"/>-->
-- 🗓️ contributing to open-source projects, and continuous learning
+- <img src="[https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif](https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Spiral%20calendar/animated/spiral_calendar_animated.png)" alt="💬" width="20" height="20"> contributing to open-source projects, and continuous learning
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="20" />-->
-- 💭 I'm interested in [`Cyber Security`](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html) and [`Cloud`](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud), with an emphasis on [`Cloud Security`](https://cloud.google.com/learn/what-is-cloud-security)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" alt="💬" width="20" height="20"> I'm interested in [`Cyber Security`](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html) and [`Cloud`](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud), with an emphasis on [`Cloud Security`](https://cloud.google.com/learn/what-is-cloud-security)
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="20" />-->
-- 👨‍🎓 **Education:** Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/> <br>
+- <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Student/Default/animated/student_animated_default.png" alt="student" width="20" height="20"> **Education:** Studied [`Computer Science`](https://www.mtu.edu/cs/what/) at the University of [`Abdelmalek Elsaadi`](https://www.uae.ac.ma/), Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25"/> <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" />-->
-- 🚩 **Main Language:** [`C`](https://www.techtarget.com/searchwindowsserver/definition/C)                 <img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />     <br>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a9/512.gif" alt="🚩" width="20" height="20"> **Main Language:** [`C`](https://www.techtarget.com/searchwindowsserver/definition/C)                 <img align="right" height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />     <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="20" />-->
-- 🌐 **Languages:**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5e3_fe0f/512.gif" alt="🗣" width="20" height="20"> **Languages:**
    - Arabic <sup> 🇲🇦 </sup>
    - French <sup> 🇫🇷 </sup>
    - English <sup> 🇬🇧 </sup>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20"/>-->
-- 🌱 Hobbies and Interests:
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> Hobbies and Interests:
    - Coding (exploring different programming languages and solving problems)
    - Reading (tech articles, books, and novels)
    - Learning (always curious about new technologies and methodologies)                                        <img align="right" height="230" src="https://i.gifer.com/En1y.gif"  />
    - Open-source Contributions (improving code, collaborating with the community)
    - Problem-Solving (solving puzzles and algorithm challenges)
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" />-->
-- 🔗 **Github:** [`repositories`](https://github.com/oanekrif?tab=repositories&type=public&sort=stargazers) <br>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26d3_fe0f/512.gif" alt="⛓" width="20" height="20"> **Github:** [`repositories`](https://github.com/oanekrif?tab=repositories&type=public&sort=stargazers) <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="20" />-->
-- 🌟 **Give me some ⭐** <br>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20"> **Give me some ⭐** <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" />-->
-- 🤝 **`Thank you for your support!`** <br>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="20" height="20"> **`Thank you for your support!`** <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" />-->
 <!--
 ```rust
