@@ -3,6 +3,7 @@
 <!-- https://animated-fluent-emoji.vercel.app/ -->
 <!-- https://gifer.com/en/ -->
 <!-- https://skillicons.dev/ -->
+---
 <div id="Top"></div>
 
 <div align="center" >
@@ -15,6 +16,7 @@
 <a href="#Githubstats"><img src="https://img.shields.io/static/v1?label&message=Github+Stats&color=0b6ab3&style=flat&logo"  alt="Github Stats" /></a>
 <a href="#Mostusedlanguages"><img src="https://img.shields.io/static/v1?label&message=Most+Used+Languages&color=0b6ab3&style=flat&logo"  alt="Most Used Languages" /></a>
 <a href="#Topcontributedrepo"><img src="https://img.shields.io/static/v1?label&message=Top+Contributed+Repo&color=0b6ab3&style=flat&logo"  alt="Top Contributed Repo" /></a>
+<a href="#RandomQuote"><img src="https://img.shields.io/static/v1?label&message=Random+Div+Quote&color=0b6ab3&style=flat&logo"  alt="Random Div Quote" /></a>
 <a href="#SteakAndTime"><img src="https://img.shields.io/static/v1?label&message=GitHub+Streak+And+WakaTime&color=0b6ab3&style=flat&logo"  alt="GitHub Trophies" /></a>
 <a href="#Down"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Down&color=0b6ab3&style=flat&logo"  alt="Down" /></a>
 
@@ -87,7 +89,7 @@
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" />-->
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26d3_fe0f/512.gif" alt="⛓" width="15" height="15"> **Github:** [`repositories`](https://github.com/oanekrif?tab=repositories&type=public&sort=stargazers) <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="20" />-->
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="15" height="15"> **Give me some ⭐** <br>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="15" height="15"> **Give me some ⭐** <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=40px height=30px> <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" />-->
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="15" height="15"> **`Thank you for your support!`** <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" />-->
@@ -119,7 +121,7 @@ As a researcher, I am involved in studies and projects related to deep learning,
 Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby, RSpec, Postman, Cypress, Robot, and other frameworks. I also promote a culture of good documentation practices for conformity, reproducibility, and knowledge dissemination. I enjoy contributing to projects and constantly learning.
 -->
 <br>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div id="Social"></div>
 
 ##  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f587_fe0f/512.gif" alt="🖇" width="30" height="30"> **Socials**:
@@ -128,12 +130,14 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/moriart___y?igsh=MW16cDFsMjI0Zml1ZA==) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/710638340394975405) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wjm99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anekrif-omar-b18700351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div id="Techstack"></div>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠" width="30" height="30"> **Tech Stack**:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)</br>![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)</br>![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div id="Githubstats"></div>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="30" height="30"> **GitHub Stats**:
@@ -152,6 +156,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=Oanekrif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div id="Mostusedlanguages"></div>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> **Most Used Languages**:
@@ -164,6 +169,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 -->
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oanekrif&layout=donut-vertical&theme=highcontrast&langs_count=11)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div id="Topcontributedrepo"></div>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="30" height="30"> **Top Contributed Repo**
@@ -177,14 +183,23 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 ![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oanekrif&repo=Calculator&theme=neon&show_owner=true)
 ![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oanekrif&repo=webchall&theme=aura&show_owner=true)
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fb/512.gif" alt="✍" width="30" height="30"> **Random Dev Quote**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div id="RandomQuote"></div>
 
-<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kyaWgzc2Jub3ZldjZ6aDMydng0OXgzOGx2a3l0Z2FseXppZDdlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fb/512.gif" alt="✍" width="30" height="30"> **Random Quote & Meme**
+
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR6YXNvd2FjOXVlcWNvNGtub3ZoajBrc3BoeHJwMHhiYWRnNTFwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" />
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="30" height="30"> **GitHub Streak & WakaTime Stats Card**
+<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kyaWgzc2Jub3ZldjZ6aDMydng0OXgzOGx2a3l0Z2FseXppZDdlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
+<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div id="SteakAndTime"></div>
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="30" height="30"> **GitHub trophy & Streak & WakaTime Stats Card**
 
 ![](https://github-profile-trophy.vercel.app/?username=Oanekrif&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 <!--<img src="https://github-profile-trophy.vercel.app/?username=oanekrif&row=2&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>   &column=3 -->
@@ -195,10 +210,8 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 ---
 </br>
-<p align="center">
+<!--<p align="center">
  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="75px">
  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
-</p>
-<p align="right"><a href="#Top"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
-
+</p>-->
 <div id="Down"></div>
