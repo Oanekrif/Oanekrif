@@ -129,7 +129,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 ![](https://github-readme-stats.vercel.app/api?username=oanekrif&theme=github_dark&show_icons=true&include_all_commits=false&count_private=true)<br/>
 ![Oanekrif's GitHub stats](https://github-readme-stats.vercel.app/api?username=oanekrif&show_icons=true&theme=radical)
 -->
-![Oanekrif's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=oanekrif&show_icons=true&theme=midnight-purple&include_all_commits=true&custom_title=Oanekrif's%20GitHub%20Stats)</br>
+![Oanekrif's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=anekrif&show_icons=true&theme=midnight-purple&include_all_commits=true&custom_title=Oanekrif's%20GitHub%20Stats)</br>
 <!--
 &hide_border=false&hide=prs,issues,contribs
 [](https://github-readme-streak-stats.herokuapp.com/?user=Oanekrif&theme=github_dark&hide_border=false)<br/>
@@ -146,7 +146,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oanekrif&layout=donut&langs_count=10&theme=github_dark)
 [![Oanekrif's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oanekrif&langs_count=10)
 -->
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oanekrif&layout=donut-vertical&theme=highcontrast&langs_count=11)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anekrif&layout=donut-vertical&theme=highcontrast&langs_count=11)
 
 <div id="Topcontributedrepo"></div>
 
