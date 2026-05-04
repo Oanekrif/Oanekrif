@@ -21,7 +21,8 @@
 </div>
 
 <div align="center" > 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40"/>
+	👨‍💻
+ <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40"/>-->
  <a href="https://github.com/Oanekrif/">
     <img src="https://img.shields.io/badge/Profile-Oanekrif-%20.svg?style=plastic&labelColor=101010&color=ffffff" alt="Oanekrif Profile" width="120">
 </a> 
