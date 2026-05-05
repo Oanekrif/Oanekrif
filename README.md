@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Profile-Oanekrif-%20.svg?style=plastic&labelColor=101010&color=ffffff" alt="Oanekrif Profile" width="120">
 </a> 
 	
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=2500&color=FFFFFF&center=true&width=500&lines=👋+Hi👦🏻,+Welcome+To+My+Profile+👋;I'm+Omar+Anekrif!;Software+Engineer+💻;And+Software+Devoloper+📚)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=2500&color=FFFFFF&center=true&width=500&lines=👋+Hi👦🏻,+Welcome+To+My+Profile+👋;I'm+Omar+Anekrif!;Computer+Science+Student+💻;And+Future+Software+Engineer+📚)
 
 [![Github](https://img.shields.io/github/followers/oanekrif?label=Follow&style=social)](https://github.com/oanekrif) <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oanekrif&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p> -->
 <img alt="referee95's stars" src="https://img.shields.io/github/stars/oanekrif?color=blueviolet" />
@@ -57,7 +57,7 @@
 
 <img align="right" height="225" src="https://i.gifer.com/6vIk.gif"  /> 
  
-- 😄 **Name:** Omar  <br>
+- 😄 **Name:** Omar Anekrif  <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" />-->
 - 🧮 **Born in:** 2005  <br>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="20" />-->
