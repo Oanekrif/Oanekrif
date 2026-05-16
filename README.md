@@ -121,7 +121,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Social -->
-<div id="Social & Profiles"></div>
+<div id="Social"></div>
 
 ##  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f587_fe0f/512.gif" alt="🖇" width="30" height="30"> **Socials**:
 
